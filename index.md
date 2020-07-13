@@ -1,7 +1,4 @@
-# note - this is a test to ensure that I have followed procedure correctly to this point
-
-# Matthew DeVay 
-## Decision Scientist | Data Raconteur | Model Trainer
+# Matthew DeVay /n ## Decision Scientist | Data Raconteur | Model Trainer
 
 ### Markdown
 
